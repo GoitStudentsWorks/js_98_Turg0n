@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Bookshelf/",
+    "build": "vite build --base=/js_98_Turg0n/",
     "preview": "vite preview",
     "push": "git add . && git commit -m 'update' && git push"
   },
